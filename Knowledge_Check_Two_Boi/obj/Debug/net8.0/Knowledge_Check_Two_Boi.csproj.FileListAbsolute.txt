@@ -1,0 +1,15 @@
+C:\code you projects\Knowledge_Check_Two\Knowledge_Check_Two_Boi\bin\Debug\net8.0\Knowledge_Check_Two_Boi.exe
+C:\code you projects\Knowledge_Check_Two\Knowledge_Check_Two_Boi\bin\Debug\net8.0\Knowledge_Check_Two_Boi.deps.json
+C:\code you projects\Knowledge_Check_Two\Knowledge_Check_Two_Boi\bin\Debug\net8.0\Knowledge_Check_Two_Boi.runtimeconfig.json
+C:\code you projects\Knowledge_Check_Two\Knowledge_Check_Two_Boi\bin\Debug\net8.0\Knowledge_Check_Two_Boi.dll
+C:\code you projects\Knowledge_Check_Two\Knowledge_Check_Two_Boi\bin\Debug\net8.0\Knowledge_Check_Two_Boi.pdb
+C:\code you projects\Knowledge_Check_Two\Knowledge_Check_Two_Boi\obj\Debug\net8.0\Knowledge_Check_Two_Boi.GeneratedMSBuildEditorConfig.editorconfig
+C:\code you projects\Knowledge_Check_Two\Knowledge_Check_Two_Boi\obj\Debug\net8.0\Knowledge_Check_Two_Boi.AssemblyInfoInputs.cache
+C:\code you projects\Knowledge_Check_Two\Knowledge_Check_Two_Boi\obj\Debug\net8.0\Knowledge_Check_Two_Boi.AssemblyInfo.cs
+C:\code you projects\Knowledge_Check_Two\Knowledge_Check_Two_Boi\obj\Debug\net8.0\Knowledge_Check_Two_Boi.csproj.CoreCompileInputs.cache
+C:\code you projects\Knowledge_Check_Two\Knowledge_Check_Two_Boi\obj\Debug\net8.0\Knowledge_Check_Two_Boi.sourcelink.json
+C:\code you projects\Knowledge_Check_Two\Knowledge_Check_Two_Boi\obj\Debug\net8.0\Knowledge_Check_Two_Boi.dll
+C:\code you projects\Knowledge_Check_Two\Knowledge_Check_Two_Boi\obj\Debug\net8.0\refint\Knowledge_Check_Two_Boi.dll
+C:\code you projects\Knowledge_Check_Two\Knowledge_Check_Two_Boi\obj\Debug\net8.0\Knowledge_Check_Two_Boi.pdb
+C:\code you projects\Knowledge_Check_Two\Knowledge_Check_Two_Boi\obj\Debug\net8.0\Knowledge_Check_Two_Boi.genruntimeconfig.cache
+C:\code you projects\Knowledge_Check_Two\Knowledge_Check_Two_Boi\obj\Debug\net8.0\ref\Knowledge_Check_Two_Boi.dll
